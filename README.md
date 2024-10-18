@@ -60,5 +60,4 @@ I am a Software Engineer with a passion for **Front-End Development**, **Full-St
 
 ## 📫 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/m-mehdi-amiri)
-- [GitHub](https://github.com/mehdiamiri1440)
 
