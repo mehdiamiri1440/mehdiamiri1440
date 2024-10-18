@@ -52,6 +52,9 @@ I am a Software Engineer with a passion for **Front-End Development**, **Full-St
 ## 💻 Personal Projects
 
 - **[Twitter Interaction Circle](https://github.com/mehdiamiri1440/twitter-itraction-circle)**: A web app showing the most frequent interactions of a logged-in Twitter user, built with **JavaScript** and **Python**.
+- **[My Finance](https://github.com/mehdiamiri1440/My-Finance)**: An Android App for handling incomes and expenses written with **React-Native**.
+- **[Let's Sale](https://github.com/mehdiamiri1440/usa-project-app)**: An Android App for selling your products on a wholesale scale **React-Native**.
+- **[Star Rating Component](https://github.com/mehdiamiri1440/react-ratings-declarative)**: An star rating web component that handles different rating methodologies **HTML/CSS/JavaScript**.
 
 ## 🎓 Education
 
