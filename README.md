@@ -13,7 +13,7 @@ I am a Software Engineer with a passion for **Front-End Development**, **Full-St
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-Graphql-purple?style=for-the-badge&logo=ruby&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-Graphql-purple?style=for-the-badge&logo=graphql&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
