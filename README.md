@@ -1,10 +1,13 @@
+
 # 👋 Hi, I'm Mehdi Amiri
 
-I am a Software Engineer with a passion for **Front-End Development**, **Full-Stack Growth**, and **Cloud Technologies**. Over the years, I have built impactful applications and led full-stack development projects, with a focus on scalability and efficiency.
+I am a **Software Engineer** passionate about building **scalable applications**, **efficient systems**, and **innovative solutions**. With a strong background in **front-end development**, **full-stack engineering**, and **cloud technologies**, I aim to deliver impactful projects that solve real-world problems.
 
-- 🌍 Based in **San Francisco, CA**
-- 💼 Currently working at **Partner Element, Inc.** as a Software Engineer.
-- 🎓 I hold an M.S. in Entrepreneurship & Innovation from the **University of San Francisco**.
+- 🌍 **Based in**: San Francisco, CA  
+- 💼 **Currently**: Software Engineer at **Partner Element, Inc.**  
+- 🎓 **Education**: M.S. in Entrepreneurship & Innovation from **University of San Francisco**
+
+---
 
 ## 🚀 Skills
 
@@ -33,34 +36,51 @@ I am a Software Engineer with a passion for **Front-End Development**, **Full-St
 ![OAuth2](https://img.shields.io/badge/-OAuth2-262261?style=for-the-badge&logo=oauth&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
+---
+
 ## 📂 Work Experience
 
 ### Software Engineer | **Partner Element, Inc.** (June 2024 - Present)
-- Built a generic class for saving external data from ZipHQ and NetSuite, improving consistency by 70%.
-- Implemented AI-driven deal value detection with **AWS Textract** and **Jupyter notebooks**.
-- Achieved 90% code accuracy by developing 200+ unit tests with **RSpec** for core system features.
+- Improved deal detection from 30% to 82% using **Rails** and **Pandas**.
+- Expanded supplier database by 400% with **Crunchbase APIs**, improving procurement accuracy.
+- Achieved 90% code reliability with 1,000+ unit tests using **RSpec**.
 
 ### Software Engineer | **RaaP, Inc.** (Sept 2023 - Jul 2024)
-- Developed MVP from scratch, handling front-end, back-end, and deployment.
-- Integrated **OAuth2**, **OpenAPI**, and **Swagger** in **TypeScript**.
-- Reduced deployment time by 25% using **Docker** for microservices.
+- Built a full-stack platform from the ground up with **React**, **Redux**, and **Express.js**, reducing hotel planning delays by 90%.
+- Reduced costs by 30% through optimized **AWS EC2** deployment.
+- Streamlined 30+ deployments with **Jenkins** and **Jest**, cutting release time by 70%.
 
 ### Co-Founder, Software Engineer | **Rexcer, Inc.** (Jun 2019 - Jul 2023)
-- Reduced API response time by 45% using **asyncio** and **aiohttp** in Python.
-- Developed a mobile-responsive native app with **React Native**, achieving 50,000+ installations.
+- Scaled a global B2B marketplace, growing supplier partnerships by 500%.
+- Reduced backend processing time by 40% using **Python asyncio** and **AWS Lambda**.
+- Developed a React Native app with 70K+ installs and increased user retention by 65%.
+
+---
 
 ## 💻 Personal Projects
 
-- **[Twitter Interaction Circle](https://github.com/mehdiamiri1440/twitter-itraction-circle)**: A web app showing the most frequent interactions of a logged-in Twitter user, built with **JavaScript** and **Python**.
-- **[My Finance](https://github.com/mehdiamiri1440/My-Finance)**: An Android App for handling incomes and expenses written with **React-Native**.
-- **[Let's Sale](https://github.com/mehdiamiri1440/usa-project-app)**: An Android App for selling your products on a wholesale scale **React-Native**.
-- **[Star Rating Component](https://github.com/mehdiamiri1440/react-ratings-declarative)**: An star rating web component that handles different rating methodologies **HTML/CSS/JavaScript**.
+- **[Twitter Interaction Circle](https://github.com/mehdiamiri1440/twitter-itraction-circle)**:  
+  Visualizes user interactions using **Twitter APIs**, built with **JavaScript** and **Python**.
+
+- **[My Finance](https://github.com/mehdiamiri1440/My-Finance)**:  
+  An Android app for managing finances, built with **React Native**.
+
+- **[Let’s Sale](https://github.com/mehdiamiri1440/usa-project-app)**:  
+  Wholesale product sales platform developed with **React Native**.
+
+- **[Star Rating Component](https://github.com/mehdiamiri1440/react-ratings-declarative)**:  
+  Customizable star rating component using **JavaScript** and **CSS**.
+
+---
 
 ## 🎓 Education
 
-- **M.S. in Entrepreneurship & Innovation**, University of San Francisco (2024)
-- **B.S. in Computer Science**, University of Shiraz (2018)
+- **M.S. in Entrepreneurship & Innovation**, University of San Francisco (2024)  
+- **B.S. in Computer Science**, University of Shiraz (2022)
 
-## 📫 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/m-mehdi-amiri)
+---
 
+## 📫 Let's Connect!
+- **LinkedIn**: [linkedin.com/in/m-mehdi-amiri](https://www.linkedin.com/in/m-mehdi-amiri)
+
+---
