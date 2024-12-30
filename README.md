@@ -1,116 +1,86 @@
-[![MasterHead](https://i.imgur.com/qNFF2xG.jpg)](https://www.linkedin.com/in/m-mehdi-amiri/)
-<h1 align="center">Hi 👋, I'm Mehdi Amiri</h1>
-<div align="center">
-  <a href="https://github.com/mehdiamiri1440/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=🌟Passionate+Software+Engineer🌟;🚀DevOps+Enthusiast🚀;💻Full-Stack+Developer💻;🌍Open-Source+Contributor🌍&center=true&width=500&height=50">
-  </a>
-</div>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/yasir-shahzad/yasir-shahzad/blob/resources/media/programmer_animatoin.gif">
+# 👋 Hi, I'm Mehdi Amiri
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdiamiri1440&label=Profile%20views&color=0e75b6&style=flat" alt="mehdi-amiri" /> </p>
+I am a **Software Engineer** passionate about building **scalable applications**, **efficient systems**, and **innovative solutions**. With a strong background in **front-end development**, **full-stack engineering**, and **cloud technologies**, I aim to deliver impactful projects that solve real-world problems.
 
-- 🔭 I am currently working on **streamlining DevOps pipelines** and **building scalable front-end applications**.
-
-- 🌱 I’m continuously learning **Next.js, TypeScript**, and **Drizzle ORM** to enhance my full-stack development skills.
-
-- 💻 Skilled in **Ruby on Rails**, **Docker**, **CI/CD Pipelines**, and **PostgreSQL**.
-
-- 🧰 Experienced with **cloud platforms** like **AWS**, **Hetzner**, and **DigitalOcean** for hosting and infrastructure management.
-
-- 🔧 Proficient in **containerization** with Docker and **orchestration** using Kubernetes.
-
-- 💬 Ask me about **Ruby on Rails**, **front-end development**, and **DevOps best practices**.
-
-- 📫 Reach me at **mehdi.amiri1440@gmail.com**.
-
-- ⚡ Fun fact: I enjoy exploring **new frameworks** and automating mundane tasks.
-
-- 📝 [Resume](https://github.com/mehdiamiri1440/mehdi-amiri-resume.pdf)
-
-If you like what I do, consider supporting my work by buying me a coffee ☕
-
-<a href="https://www.buymeacoffee.com/mehdiamiri" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
+- 🌍 **Based in**: San Francisco, CA  
+- 💼 **Currently**: Software Engineer at **Partner Element, Inc.**  
+- 🎓 **Education**: M.S. in Entrepreneurship & Innovation from **University of San Francisco**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/mehdiamiri" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter - mehdiamiri" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/m-mehdi-amiri" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - mehdi-amiri-1440" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/mehdiamiri" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow - mehdiamiri" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/mehdiamiri" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook - mehdiamiri" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/mehdiamiri" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - mehdiamiri" height="30" width="40" />
-  </a>
-</p>
+## 🚀 Skills
+
+### Languages & Frameworks:
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Cloud & DevOps:
+![AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Databases:
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### APIs:
+![REST](https://img.shields.io/badge/-REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![OAuth2](https://img.shields.io/badge/-OAuth2-262261?style=for-the-badge&logo=oauth&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
 
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages and Tools:</h2>
-<p align="left">
-  <!-- Add your preferred tools and languages -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
-  </a>
-</p>
+## 📂 Work Experience
+
+### Software Engineer | **Partner Element, Inc.** (June 2024 - Present)
+- Improved deal detection from 30% to 82% using **Rails** and **Pandas**.
+- Expanded supplier database by 400% with **Crunchbase APIs**, improving procurement accuracy.
+- Achieved 90% code reliability with 1,000+ unit tests using **RSpec**.
+
+### Software Engineer | **RaaP, Inc.** (Sept 2023 - Jul 2024)
+- Built a full-stack platform from the ground up with **React**, **Redux**, and **Express.js**, reducing hotel planning delays by 90%.
+- Reduced costs by 30% through optimized **AWS EC2** deployment.
+- Streamlined 30+ deployments with **Jenkins** and **Jest**, cutting release time by 70%.
+
+### Co-Founder, Software Engineer | **Rexcer, Inc.** (Jun 2019 - Jul 2023)
+- Scaled a global B2B marketplace, growing supplier partnerships by 500%.
+- Reduced backend processing time by 40% using **Python asyncio** and **AWS Lambda**.
+- Developed a React Native app with 70K+ installs and increased user retention by 65%.
 
 ---
 
-<p align="center">
-    <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
-</p>
+## 💻 Personal Projects
 
-![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/mehdiamiri1440/mehdiamiri1440/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+- **[Twitter Interaction Circle](https://github.com/mehdiamiri1440/twitter-itraction-circle)**:  
+  Visualizes user interactions using **Twitter APIs**, built with **JavaScript** and **Python**.
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+- **[My Finance](https://github.com/mehdiamiri1440/My-Finance)**:  
+  An Android app for managing finances, built with **React Native**.
 
-<img align="right" alt="Coding" width="320" src="https://github.com/yasir-shahzad/yasir-shahzad/blob/resources/media/Cat-animation.gif">
+- **[Let’s Sale](https://github.com/mehdiamiri1440/usa-project-app)**:  
+  Wholesale product sales platform developed with **React Native**.
 
-[![Mehdi's GitHub stats](https://bad-apple-github-readme.vercel.app/api?username=mehdiamiri1440&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)  
-[![Mehdi's GitHub streak](https://streak-stats.demolab.com/?user=mehdiamiri14400&count_private=true&theme=blue-green&title_color=00b3ff)](#)  
-[![Top Languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=mehdiamiri1440&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
----
-
-## ⚡ Activity Graph
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mehdiamiri1440&theme=react-dark"/>
+- **[Star Rating Component](https://github.com/mehdiamiri1440/react-ratings-declarative)**:  
+  Customizable star rating component using **JavaScript** and **CSS**.
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mehdiamiri1440&theme=default&no-frame=false&no-bg=false&margin-w=4)
+## 🎓 Education
+
+- **M.S. in Entrepreneurship & Innovation**, University of San Francisco (2024)  
+- **B.S. in Computer Science**, University of Shiraz (2022)
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+## 📫 Let's Connect!
+- **LinkedIn**: [linkedin.com/in/m-mehdi-amiri](https://www.linkedin.com/in/m-mehdi-amiri)
 
 ---
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mehdiamiri1440&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
-
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
