@@ -1,4 +1,9 @@
-[![MasterHead](https://i.imgur.com/qNFF2xG.jpg)](https://www.linkedin.com/in/m-mehdi-amiri/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/m-mehdi-amiri/" target="_blank">
+    <img src="https://i.imgur.com/jxU2mE8.jpeg" alt="MasterHead" style="width: 100vw; height: 450px; object-fit: cover;">
+  </a>
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Mehdi Amiri</h1>
 <div align="center">
@@ -7,7 +12,7 @@
   </a>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/mehdiamiri1440/mehdiamiri1440/blob/resources/media/programmer_animatoin.gif">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/tenor.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdiamiri1440&label=Profile%20views&color=0e75b6&style=flat" alt="Mehdi Amiri" /> </p>
 
@@ -20,7 +25,6 @@
 
 - 🚀 Experienced in modernizing legacy systems, having led a **React migration** of a 65-page enterprise app from AngularJS, boosting performance by 50%.
 
-- 📫 You can contact me at **mohammadmehdiamiri20@gmail.com**.
 
 - ⚡ Fun fact: Besides coding, I enjoy visualizing data patterns and optimizing workflows.
 
