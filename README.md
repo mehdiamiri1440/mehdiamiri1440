@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/m-mehdi-amiri/" target="_blank">
-    <img src="https://i.imgur.com/jxU2mE8.jpeg" alt="MasterHead" style="width: 100vw; height: 550px; object-fit: cover;">
+    <img src="https://i.imgur.com/jxU2mE8.jpeg" alt="MasterHead" style="width: 100vw; height: 450px; object-fit: cover;">
   </a>
 </div>
 
