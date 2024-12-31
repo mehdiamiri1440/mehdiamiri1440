@@ -25,7 +25,6 @@
 
 - 🚀 Experienced in modernizing legacy systems, having led a **React migration** of a 65-page enterprise app from AngularJS, boosting performance by 50%.
 
-- 📫 You can contact me at **mohammadmehdiamiri20@gmail.com**.
 
 - ⚡ Fun fact: Besides coding, I enjoy visualizing data patterns and optimizing workflows.
 
