@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/qNFF2xG.jpg)](https://www.linkedin.com/in/m-mehdi-amiri/)
+[![MasterHead](https://i.imgur.com/jxU2mE8.jpeg)](https://www.linkedin.com/in/m-mehdi-amiri/)
 
 <h1 align="center">Hi 👋, I'm Mehdi Amiri</h1>
 <div align="center">
@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/mehdiamiri1440/mehdiamiri1440/blob/resources/media/programmer_animatoin.gif">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/tenor.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdiamiri1440&label=Profile%20views&color=0e75b6&style=flat" alt="Mehdi Amiri" /> </p>
 
