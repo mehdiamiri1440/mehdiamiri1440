@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.linkedin.com/in/m-mehdi-amiri/" target="_blank">
     <img src="https://i.imgur.com/jxU2mE8.jpeg" alt="MasterHead" style="width: 100vw; height: 450px; object-fit: cover;">
   </a>
-</div>
+</div> -->
 
 <h1 align="center">Hi 👋, I'm Mehdi Amiri</h1>
 <div align="center">
